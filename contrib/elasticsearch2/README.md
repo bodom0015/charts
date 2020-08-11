@@ -1,7 +1,7 @@
 # elasticsearch2-helm
 A simple Helm chart proof-of-concept for Elasticsearch2.
 
-WARNING: This version of Elasticsearch is extermely out-of-date.
+WARNING: This version of Elasticsearch is extremely out-of-date.
 
 Please consider using a newer version of Elasticsearch along with the official Helm chart, located here: https://github.com/elastic/helm-charts/tree/master/elasticsearch
 
